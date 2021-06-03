@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manner of the march and embattelling of the trayned bands and avxiliaries of the city of London, hamlets, Westminster men, and the burrow of Southwarke as it was appointed by the honourable committee of the militia and performed on Tuesday the 26 of September, 1643</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26500</idno><idno type="EEBO-CITATION">12099260</idno>
+  <idno type="VID">196893</idno>
+  <idno type="EEBO-PROQUEST">2240954397</idno>
+  
+            <idno type="STC">Wing M476</idno>
+            <idno type="OCLC">12099260</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E69, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Manner of the march and embattelling of the trayned bands and avxiliaries of the city of London, hamlets, Westminster men, and the burrow of Southwarke as it was appointed by the honourable committee of the militia and performed on Tuesday the 26 of September, 1643</title>
+               </titleStmt>
+               <extent>[8] p. ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196893:1"/>
+            <p>THE MANNER of the MARCH AND <hi>EMBATTELLING</hi> OF THE TRAYNED BANDS AND <hi>AƲXILIARIES</hi> Of the City of <hi>London, Hamlets, West<g ref="char:EOLhyphen"/>minster</hi> men, and the Burrow of <hi>South<g ref="char:EOLhyphen"/>warke,</hi> as it was appointed by the Honourable Committee of the Militia; and perfor<g ref="char:EOLhyphen"/>med on Tuesday the 26. of September, 1643.</p>
+            <p>LONDON Printed, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196893:2"/>
+            <pb facs="tcp:196893:2"/>
+            <head>The manner of the March and Embattailing of the Trained Bands, and Auxiliaries of the City of London, Hamlets, Westminster men, and the Bourough or Southwark, &amp;c.</head>
+            <p n="1">1. THat the Regiments be at the place of Randevouze by seven of the Clocke to march into the Field.</p>
+            <list>
+               <head>The order of the March.</head>
+               <item n="1">1. The City Regiments, White, Yellow, Green and Oringe.</item>
+               <item n="2">2. The Hamlets Regiment of Trained men.</item>
+               <item n="3">3. The Westminster Regiment of Trained men.</item>
+               <item n="4">4. The Regiment of Trained men in Southwarke.</item>
+               <item n="5">5. The Auxiliaries of the Hamlets.</item>
+               <item n="6">6. The Auxiliaries of Southwarke.</item>
+            </list>
+            <list>
+               <head>The place of Randevouze in the City.</head>
+               <item>The white Regiment in <hi>Pauls</hi> Church yard where the Crosse stood.</item>
+               <item>The yellow Regiment in <hi>Pauls</hi> Church yard among the Drapers.</item>
+               <item>The green Regiment in Old Bayly, Pye Corner, and part of Smithfield.</item>
+               <item>The Oringe Regiment in Fleet street, and to march after the green Regiment.</item>
+               <pb facs="tcp:196893:3"/>
+               <item>The Hamlets in Smithfield and Aldersgate street, and to march after the Oringe.</item>
+               <item>The Westminster men in Holborne, and downe towards Newgate.</item>
+               <item>The Regiment of Southwarke men in Gracious street, Canon street, and Watling street, and so to St. <hi>Austins</hi> Gate, and to march after the Westminster Regiment.</item>
+            </list>
+            <p>Distance in march between Companies 12. foot.</p>
+            <p>Between Regiments 30. foot.</p>
+            <list>
+               <item>The Auxiliaries of the Hamlets in Fanchurch street and Gra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> street, and to march in the reare of Southwarke men.</item>
+               <item>The Auxiliaries of Southwarke to be on the Bridge, and Gra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>us street, and to march in the reare of the Hamlets.</item>
+            </list>
+            <p>The Companies in each Regiment to march successively, accor<g ref="char:EOLhyphen"/>ding to segniority, as first,
+<list>
+                  <item>1. Colonels Company.</item>
+                  <item>2. Lieutenant Colonell.</item>
+                  <item>Sergeant Major 3.</item>
+                  <item>Eldest Captaine 4.</item>
+               </list>
+            </p>
+            <p>The place of Randevouze to be drawne up in a regimentall way.</p>
+            <p>The foure Regiments of the City in the new Artillary Garden.</p>
+            <p>The Hamlets and Westminster Regiments in the upper Fields next the Windmilles, on the right of the new Artillary ground.</p>
+            <p>The Southwarke Regiments in the Field next above the foure quarters.</p>
+            <p>Both Regiments. The Auxiliaries to be drawne up into one Body in a regimentall way in the place where Moore-dich was,
+<pb facs="tcp:196893:3"/> which Body must consist of two grand Divisions according to the other Regiments.</p>
+            <p>The manner how to draw the Regiments up in two grand Di<g ref="char:EOLhyphen"/>visions.</p>
+            <p>
+               <table>
+                  <head>In a Regiment consisting of 6. Companies is to be placed af<g ref="char:EOLhyphen"/>ter this manner:</head>
+                  <row>
+                     <cell>The 2. grand Division.</cell>
+                     <cell> </cell>
+                     <cell>The first grand Division. </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>The left wing.</cell>
+                     <cell> </cell>
+                     <cell>The right wing.</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ser. Major.</cell>
+                     <cell>3. Cap.</cell>
+                     <cell>2. Capt.</cell>
+                     <cell>1. Cap.</cell>
+                     <cell>4. Capt.</cell>
+                     <cell>Lieu. Colonell.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>A Regiment of 7. Companies.</head>
+                  <row>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ser. Major. </cell>
+                     <cell>4. Capt. </cell>
+                     <cell>2. Capt.</cell>
+                     <cell>1. Capt.</cell>
+                     <cell>3. Capt.</cell>
+                     <cell> 5. Capt.</cell>
+                     <cell> Lieu. Col.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>A Regiment of 8. Companies.</head>
+                  <row>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>A Regiment of 9. Companies.</head>
+                  <row>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Whereas there is no Colonell for the Regiments, there the Lieutenant Colonell is to supply that place.</p>
+            <p>The Lieutenant Colonells Company takes the first place on the right of the first division.</p>
+            <p>Serjant Majors Companie takes the second place in the left of the second division.</p>
+            <p>And so accordin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the place of the figures.</p>
+            <pb facs="tcp:196893:4"/>
+            <p>When the Companies of each Regiment are so drawne up, the Pikes of each grand division to march cleare of the Musketteres, and to close both Muskets and Pikes, and then the Musketteeres of each grand division to bee equall devided, and to fleeve up and flank the Pikes.</p>
+            <p>And in this manner to march into the great field where you are thus to place your selves.</p>
+            <list>
+               <item>The White Regiment of the City to take place at the farthest end of the field westward, facing towards the City.</item>
+               <item>The Yellow Regiment of the City to take place at the farthest end estward, next the fort at Pimlico facing towards Balmes.</item>
+               <item>The Greene to face the Yellow.</item>
+               <item>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Oringe to face the White.</item>
+               <item>The Hamlets to take place on the right of the Greene.</item>
+               <item>The Westminster Regiment to take place on the left of the Oringe.</item>
+               <item>The Southwarke trained band to take the left of the Yellow.</item>
+               <item>The Auxilaries to take the left of the White Regiment, and to face the Westminster Regiment.</item>
+            </list>
+            <div type="formation">
+               <head>For the firing.</head>
+               <p>All the Musketteeres to march cleere of the Pikes and to sleeve their Pikes.</p>
+               <p>Then to make an intervaile betweene every five Files of each Division.</p>
+               <p n="1">1. Firing — Two Ranks advancing 10. paces, and to fall into the Reare of themselves.</p>
+               <p n="2">2. Firing — Two fier eeven in the Front, and to fall in the Reare of themselves, and so to continue.</p>
+               <pb facs="tcp:196893:4"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Pimlico.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mount-Mill.</cell>
+                     </row>
+                     <row>
+                        <cell>The breast worke</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="formations">
+               <p>
+                  <table>
+                     <head rend="upsideDown">Front.</head>
+                     <row>
+                        <cell rend="upsideDown">Lieu. Co. <hi>Wilson.</hi>
+                        </cell>
+                        <cell rend="upsideDown">Westminster.</cell>
+                        <cell rend="upsideDown">Southwark.</cell>
+                        <cell rend="upsideDown">Lieu. Co. <hi>Harison.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="4">
+                           <figure>
+                              <figDesc>4 hand-drawn rectangles, one above each name. NB: each name, as well as "Front", is printed upside-down in the original text</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Front.</head>
+                     <row>
+                        <cell>Lieu. Co. <hi>Foster.</hi>
+                        </cell>
+                        <cell>Hamlets.</cell>
+                        <cell>Auxiliaries.</cell>
+                        <cell>Lieu. Co. <hi>Davis.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="4">
+                           <figure>
+                              <figDesc>4 hand-drawn rectangles, one below each name</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="battle_array">
+               <head>Islington.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Serjeant Major.</cell>
+                        <cell cols="3"> </cell>
+                        <cell>The Colonels.</cell>
+                        <cell cols="2"> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The 3. place.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>The 3. place.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>M.</cell>
+                        <cell>The 2. grand Division.</cell>
+                        <cell> </cell>
+                        <cell>M.</cell>
+                        <cell>M.</cell>
+                        <cell>The 1. grand Division.</cell>
+                     </row>
+                     <row>
+                        <cell cols="2"> </cell>
+                        <cell>The 8. place.</cell>
+                        <cell> </cell>
+                        <cell cols="2"> </cell>
+                        <cell>The 8. place.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Capt. </cell>
+                        <cell>2. Capt.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>5. Capt.</cell>
+                        <cell>Lieu. Col.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The 1. place of honour</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>The 1. place of honour.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>P.</cell>
+                        <cell>P. </cell>
+                        <cell>The 7. place.</cell>
+                        <cell> </cell>
+                        <cell>P.</cell>
+                        <cell>P.</cell>
+                        <cell>The 7. place</cell>
+                     </row>
+                     <pb facs="tcp:196893:5"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Ser. Major.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>1. Capt. </cell>
+                        <cell>3. Capt.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell cols="2"> </cell>
+                        <cell>The 6. place</cell>
+                        <cell> </cell>
+                        <cell cols="2"> </cell>
+                        <cell>The 6. place.</cell>
+                     </row>
+                     <row>
+                        <cell>P.</cell>
+                        <cell>P.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>P</cell>
+                        <cell>P.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The 2. place</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>The 2. place.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The 4. place.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>The 4. place.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>M.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>M.</cell>
+                        <cell>M.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The 5. place</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>The 5. place.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Lieutenant Colonell.</cell>
+                        <cell cols="6"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:196893:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
